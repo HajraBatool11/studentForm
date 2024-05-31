@@ -68,12 +68,12 @@ public class sform implements ActionListener {
         p.add(t);
         p.add(l2);
         p.add(t2);
-        p.add(l3);
-        p.add(t3);
-        p.add(l4);
+         p.add(l4);
         p.add(t4);
         p.add(l5);
         p.add(t5);
+        p.add(l3);
+        p.add(t3);
         p.add(c);
         p.add(rb);
         p.add(rb2);
